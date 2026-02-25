@@ -1,3 +1,20 @@
-.h1{
+h1{
     background-color: aqua;
+}
+
+footer{
+    background-color: blueviolet;
+}
+
+h2{
+    background-color: aquamarine;
+}
+
+.intereses-titulo{
+    background-color: aqua;
+}
+
+.habilidades{
+    grid-area: auto;
+    
 }
