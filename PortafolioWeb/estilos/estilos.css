@@ -18,3 +18,14 @@ h2{
     grid-area: auto;
     
 }
+
+.intereses{
+    grid-area: auto;
+    background-color: crimson;
+}
+
+.articulo{
+    grid-area: auto;
+    background-color:tomato;
+}
+
